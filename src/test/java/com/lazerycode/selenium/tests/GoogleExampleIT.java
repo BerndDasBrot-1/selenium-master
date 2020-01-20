@@ -29,6 +29,7 @@ public class GoogleExampleIT extends DriverBase {
 
         // Check the title of the page
         System.out.println("Page title is: " + driver.getTitle());
+        System.out.println(driver.getCurrentUrl());
 
         googleHomePage.enterSearchTerm("Cheese")
                 .submitSearch();
