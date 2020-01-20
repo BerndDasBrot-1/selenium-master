@@ -4,12 +4,12 @@
         <driver id="internetexplorer">
             <version id="3.14.0">
                 <bitrate sixtyfourbit="true">
-                    <filelocation>http://selenium-release.storage.googleapis.com/3.14/IEDriverServer_x64_3.14.0.zip</filelocation>
+                    <filelocation>https://selenium-release.storage.googleapis.com/3.14/IEDriverServer_x64_3.14.0.zip</filelocation>
                     <hash>f2b4378623ba3eeb31593d5d65530bbfe747935e</hash>
                     <hashtype>sha1</hashtype>
                 </bitrate>
                 <bitrate thirtytwobit="true">
-                    <filelocation>http://selenium-release.storage.googleapis.com/3.14/IEDriverServer_Win32_3.14.0.zip</filelocation>
+                    <filelocation>https://selenium-release.storage.googleapis.com/3.14/IEDriverServer_Win32_3.14.0.zip</filelocation>
                     <hash>f27936ee7b960a43ca8937c5ab149222c5b17476</hash>
                     <hashtype>sha1</hashtype>
                 </bitrate>
